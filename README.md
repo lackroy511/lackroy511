@@ -11,9 +11,11 @@
 
 💬 I'm open to connect and collaborate with fellow developers.
 
-<p align="left">
+<p align="left">  
 <a href="https://discordapp.com/users/367650964511129601/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="lackroy" height="40" width="50" /></a> <a href="https://t.me/lackroy511" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=oWiuH0jFiU0R&format=png" alt="lackroy" height="40" width="40" /></a>
 </p>
+
+<span><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="lackroy" height="20" width="30"/></a>  lackroy5111@gmail.com</span>
 
 <h3 align="left">Languages and Tools:</h3>
 
