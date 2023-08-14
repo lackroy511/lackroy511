@@ -12,7 +12,7 @@
 💬 I'm open to connect and collaborate with fellow developers.
 
 <p align="left">
-<a href="https://discord.gg/lackroy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="lackroy" height="40" width="50" /></a> <a href="https://t.me/lackroy511" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=oWiuH0jFiU0R&format=png" alt="lackroy" height="40" width="40" /></a>
+<a href="https://discordapp.com/users/367650964511129601/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="lackroy" height="40" width="50" /></a> <a href="https://t.me/lackroy511" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=oWiuH0jFiU0R&format=png" alt="lackroy" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
