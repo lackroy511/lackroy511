@@ -34,7 +34,7 @@
 <table>
   <tr>
     <td><img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=lackroy511&theme=highcontrast"/></td>
-    <td><img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lackroy511&layout=compact&theme=vision-friendly-dark"/></td>
+    <td><img height="200px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lackroy511&layout=compact&theme=vision-friendly-dark"/></td>
   </tr>
 </table>
 
