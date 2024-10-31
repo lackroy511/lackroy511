@@ -29,12 +29,3 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 	![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-## Stats:
-<table>
-  <tr>
-    <td><img height="200px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lackroy511&layout=compact&theme=vision-friendly-dark"/></td>
-  </tr>
-</table>
-
-<img src="https://komarev.com/ghpvc/?username=lackroy511&label=Profile%20views&color=0e75b6&style=flat" alt="lackroy511" />
